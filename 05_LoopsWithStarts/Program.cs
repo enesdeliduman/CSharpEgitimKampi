@@ -12,10 +12,10 @@ namespace _05_LoopsWithStarts
         {
             #region ALT ALTA 10 YILDIZ OLUŞTURMA
 
-            //for (int i = 1; i <= 10; i++)
-            //{
-            //    Console.WriteLine("*");
-            //}
+            for (int i = 1; i <= 10; i++)
+            {
+                Console.WriteLine("*");
+            }
 
             #endregion
 
